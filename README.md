@@ -11,11 +11,11 @@ The coil works, but aside from some not-so-wise design decisions that I changed 
 
 |   |   |   |
 |---|---|---|
-| ![Photo 2](/img/PIC_2.png) |![Photo 3](/img/PIC_3.png) | ![Photo 4](/img/PIC_4.png)|
+| ![Photo 2](/img/PIC_2.jpg) |![Photo 3](/img/PIC_3.jpg) | ![Photo 4](/img/PIC_4.jpg)|
 
 ![](/img/PCB_1.png)
 ![](/img/PCB_2.png)
-![base](/img/PIC_1)
+![base](/img/PIC_1.jpg)
 
 ## TODO
 - Add Q3 gate protection
